@@ -81,3 +81,5 @@ choose two branches
 press "create pull request"
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
+$ git fetch
+$ git pull
