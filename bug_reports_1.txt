@@ -1,0 +1,10 @@
+ID
+Title
+Pre-condition
+STR
+EX
+AR
+Other
+Environment
+Severity
+PtiorityYour branch is up to date with 'origin/Bag_Reports'.
